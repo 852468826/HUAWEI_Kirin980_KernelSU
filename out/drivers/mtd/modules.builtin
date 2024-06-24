@@ -1,0 +1,4 @@
+kernel/drivers/mtd/mtd.ko
+kernel/drivers/mtd/ofpart.ko
+kernel/drivers/mtd/hisi_nve.ko
+kernel/drivers/mtd/chips/chipreg.ko

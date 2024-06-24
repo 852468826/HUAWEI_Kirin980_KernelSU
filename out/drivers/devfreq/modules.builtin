@@ -1,0 +1,8 @@
+kernel/drivers/devfreq/governor_performance.ko
+kernel/drivers/devfreq/hisi/hisi_devfreq.ko
+kernel/drivers/devfreq/hisi/ddr_devfreq.ko
+kernel/drivers/devfreq/hisi/governor_gpu_scene_aware.ko
+kernel/drivers/devfreq/hisi/arm-memlat-mon.ko
+kernel/drivers/devfreq/hisi/governor_memlat.ko
+kernel/drivers/devfreq/hisi/dsu_pctrl/dsu-pctrl-devfreq.ko
+kernel/drivers/devfreq/hisi/l3c_devfreq/l3c_devfreq.ko

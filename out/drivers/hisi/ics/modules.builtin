@@ -1,0 +1,8 @@
+kernel/drivers/hisi/ics/npu_main.ko
+kernel/drivers/hisi/ics/npu_task.ko
+kernel/drivers/hisi/ics/npu_task_wq.ko
+kernel/drivers/hisi/ics/npu_power.ko
+kernel/drivers/hisi/ics/npu_regulator.ko
+kernel/drivers/hisi/ics/npu_clock.ko
+kernel/drivers/hisi/ics/npu_smmu.ko
+kernel/drivers/hisi/ics/npu_mntn.ko

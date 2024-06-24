@@ -1,0 +1,2 @@
+kernel/drivers/huawei_platform/sensor/hw_pmic/rt5112.ko
+kernel/drivers/huawei_platform/sensor/hw_pmic/fan53880.ko

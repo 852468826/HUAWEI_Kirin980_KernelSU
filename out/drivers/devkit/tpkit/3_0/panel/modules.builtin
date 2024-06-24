@@ -1,0 +1,17 @@
+kernel/drivers/devkit/tpkit/3_0/panel/atmel/atmel_ts.ko
+kernel/drivers/devkit/tpkit/3_0/panel/novatek/novatek_ts.ko
+kernel/drivers/devkit/tpkit/3_0/panel/parade/parade.ko
+kernel/drivers/devkit/tpkit/3_0/panel/samsung/sec_driver.ko
+kernel/drivers/devkit/tpkit/3_0/panel/st/fts.ko
+kernel/drivers/devkit/tpkit/3_0/panel/st/fts_lib/ftsCompensation.ko
+kernel/drivers/devkit/tpkit/3_0/panel/st/fts_lib/ftsCore.ko
+kernel/drivers/devkit/tpkit/3_0/panel/st/fts_lib/ftsError.ko
+kernel/drivers/devkit/tpkit/3_0/panel/st/fts_lib/ftsFrame.ko
+kernel/drivers/devkit/tpkit/3_0/panel/st/fts_lib/ftsIO.ko
+kernel/drivers/devkit/tpkit/3_0/panel/st/fts_lib/ftsTest.ko
+kernel/drivers/devkit/tpkit/3_0/panel/st/fts_lib/ftsTime.ko
+kernel/drivers/devkit/tpkit/3_0/panel/st/fts_lib/ftsTool.ko
+kernel/drivers/devkit/tpkit/3_0/panel/st/fts_lib/ftsFlash.ko
+kernel/drivers/devkit/tpkit/3_0/panel/st/fts_lib/ftsGesture.ko
+kernel/drivers/devkit/tpkit/3_0/panel/synaptics/synaptics_driver.ko
+kernel/drivers/devkit/tpkit/3_0/panel/synaptics_tcm/synaptics_tcm_driver.ko

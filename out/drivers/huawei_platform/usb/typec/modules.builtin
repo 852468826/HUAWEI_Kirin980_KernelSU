@@ -1,0 +1,5 @@
+kernel/drivers/huawei_platform/usb/typec/hw_typec.ko
+kernel/drivers/huawei_platform/usb/typec/fusb301/fusb301.ko
+kernel/drivers/huawei_platform/usb/typec/pericom30216/pericom30216.ko
+kernel/drivers/huawei_platform/usb/typec/ptn5150h/ptn5150h.ko
+kernel/drivers/huawei_platform/usb/typec/tusb320/tusb320.ko

@@ -1,0 +1,2 @@
+kernel/drivers/media/huawei/camera/fpga/ice40/ice40_spi.ko
+kernel/drivers/media/huawei/camera/fpga/ice40/ice40.ko
