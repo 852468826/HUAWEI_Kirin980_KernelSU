@@ -49,7 +49,7 @@ jobs:
          echo $PATH
          export CROSS_COMPILE=aarch64-linux-android-
          echo $PWD
-         make ARCH=arm64 O=out ../../arch/arm64/configs/merge_kirin980_defconfig
+         make ARCH=arm64 O=out /arch/arm64/configs/merge_kirin980_defconfig
          make ARCH=arm64 O=out -j$(nproc --all)
 
   
