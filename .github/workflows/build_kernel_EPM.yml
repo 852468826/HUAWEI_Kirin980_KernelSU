@@ -48,6 +48,7 @@ jobs:
          export PATH=$PATH:/aarch64-linux-android-4.9/bin
          echo $PATH
          export CROSS_COMPILE=aarch64-linux-android-
+         echo $board-dirs
          echo $ls
          echo $PWD
          make ARCH=arm64 O=out arch/arm64/configs/merge_kirin980_defconfig
